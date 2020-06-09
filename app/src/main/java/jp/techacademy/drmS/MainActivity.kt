@@ -16,8 +16,6 @@ class MainActivity : AppCompatActivity() {
         button4timeSet.setOnClickListener{
             showTimePickerDialog()
         }
-
-
     }
 
     private fun showTimePickerDialog() {
